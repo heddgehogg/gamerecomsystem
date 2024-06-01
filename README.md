@@ -48,7 +48,7 @@ The recommender system presented 6 the most appropriate games: “Firewatch”, 
 - Dead Island Definitive Edition: Action, Survival horror, Open-world.
 - Miscreated: Survival, Open-world, Multiplayer.
 - Dead Island: RDE: Action, Survival horror, Open-world.
-![result](images/result.jpg)
+![result](images/result.png)
 
 ### Metrics analysis 
 ![metrics](images/metrics.png)
