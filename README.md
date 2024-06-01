@@ -15,3 +15,16 @@ ____
 ____
 
 ## Content-based filtering (Recommender System itself)
+A **recommender system**, as the name suggests, is a type of machine learning system that provides personalized recommendations to users based on their past behaviors, preferences, and patterns.
+
+**Content-based filtering** customizes suggestions based on user interactions by analyzing characteristics and keywords connected to items in a database. It correlates them with a user’s profile formed from their activities such as purchases, ratings, searches, and clicks. By concentrating on individual preferences, content-based filtering delivers tailored recommendations that match each user’s unique tastes and interests.
+
+**Advantages:**
++ This model operates independently, requiring no data from users.
++ Scalability is effortless, even with large user bases.
++ Highly relevant recommendations foster user trust and engagement, as user perceive the suggestions as personalized and pertinent.
++ By circumventing the “cold start” problem, content-based filtering mitigates the challenge faced by collaborative filtering in nascent communities or platforms with limited user data.
+**Disadvantages:**
++ Recommendations are limited to the user’s established interests, lacking ability to introduce novel or diverse suggestions.
++ Scalability presents a hurdle, as every addition of a new product, service, or content necessitates meticulous attribute identification and tagging.
++ Inaccuracies and inconsistencies in attribute assignment may arise, potentially leading to flawed recommendations or user dissatisfaction.
