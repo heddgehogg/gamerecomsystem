@@ -29,3 +29,14 @@ A **recommender system**, as the name suggests, is a type of machine learning sy
 + Recommendations are limited to the user’s established interests, lacking ability to introduce novel or diverse suggestions.
 + Scalability presents a hurdle, as every addition of a new product, service, or content necessitates meticulous attribute identification and tagging.
 + Inaccuracies and inconsistencies in attribute assignment may arise, potentially leading to flawed recommendations or user dissatisfaction.
+____
+
+## Approach
++ TF-IDF Vectorization
++ PorterStemmer
++ Cosine Similarity
++ Streamlit deployment
+____
+
+## Outcome Display
+![into](images/result.jpg)
