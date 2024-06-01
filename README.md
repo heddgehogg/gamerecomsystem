@@ -12,3 +12,6 @@ ____
 + Develop a recommender system based on content-based filtering using the created dataset.
 + Deploy the finished recommender system on Streamlit app.
 + Evaluate the effectiveness of the obtained model.
+____
+
+## Content-based filtering (Recommender System itself)
