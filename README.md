@@ -1,6 +1,6 @@
 # Game Recomender System
 ## Steam Content-Based RS
-![into](images/social-og.jpg)
+![intro](images/social-og.jpg)
 
 ## Introduction
 As the gaming industry continues to experience rapid growth, driven by the vast array of games available worldwide, the sheer abundance of options presents a challenge for gamers in selecting which game to play. In response to this, global gaming companies would benefit from creating powerful game recommender systems tailored to users' interests amidst the overwhelming array of choices. 
@@ -39,6 +39,7 @@ ____
 ____
 
 ## Outcome Display
+### Personal analysis 
 The efficacy of the recommender system was thoroughly tested through a series of evaluations, one of which involved personal testing. Among the dropdown list of all available games, “The Long Dark”, a captivating first-person survival video game developed and published by Hinterland Studios, was chosen. In this immersive gaming experience, players embark on a journey as Will Mackenzie, a crash-landed bush pilot tasked with navigating the unforgiving Canadian wilderness in the aftermath of a geomagnetic storm.
 The recommender system presented 6 the most appropriate games: “Firewatch”, “Icarus”, “The Wild Eight”, “Dead Island Definite Edition”, “Miscreated”, and “Dead Island Riptide Definition Edition”. Each of these games shares thematic elements or gameplay mechanics reminiscent of the rugged survival challenges found in "The Long Dark."
 - Firewatch: Adventure, Narrative-driven, Walking simulator.
@@ -47,4 +48,7 @@ The recommender system presented 6 the most appropriate games: “Firewatch”, 
 - Dead Island Definitive Edition: Action, Survival horror, Open-world.
 - Miscreated: Survival, Open-world, Multiplayer.
 - Dead Island: RDE: Action, Survival horror, Open-world.
-![into](images/result.jpg)
+![result](images/result.jpg)
+
+### Metrics analysis 
+![metrics](images/metrics.png)
