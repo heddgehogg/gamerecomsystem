@@ -24,6 +24,7 @@ A **recommender system**, as the name suggests, is a type of machine learning sy
 + Scalability is effortless, even with large user bases.
 + Highly relevant recommendations foster user trust and engagement, as user perceive the suggestions as personalized and pertinent.
 + By circumventing the “cold start” problem, content-based filtering mitigates the challenge faced by collaborative filtering in nascent communities or platforms with limited user data.
+
 **Disadvantages:**
 + Recommendations are limited to the user’s established interests, lacking ability to introduce novel or diverse suggestions.
 + Scalability presents a hurdle, as every addition of a new product, service, or content necessitates meticulous attribute identification and tagging.
