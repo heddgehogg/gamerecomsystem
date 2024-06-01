@@ -39,4 +39,12 @@ ____
 ____
 
 ## Outcome Display
+The efficacy of the recommender system was thoroughly tested through a series of evaluations, one of which involved personal testing. Among the dropdown list of all available games, “The Long Dark”, a captivating first-person survival video game developed and published by Hinterland Studios, was chosen. In this immersive gaming experience, players embark on a journey as Will Mackenzie, a crash-landed bush pilot tasked with navigating the unforgiving Canadian wilderness in the aftermath of a geomagnetic storm.
+The recommender system presented 6 the most appropriate games: “Firewatch”, “Icarus”, “The Wild Eight”, “Dead Island Definite Edition”, “Miscreated”, and “Dead Island Riptide Definition Edition”. Each of these games shares thematic elements or gameplay mechanics reminiscent of the rugged survival challenges found in "The Long Dark."
+- Firewatch: Adventure, Narrative-driven, Walking simulator.
+- ICARUS: Survival, Open-world, Multiplayer.
+- The Wild Eight: Survival, Open-world, Adventure, Co-op.
+- Dead Island Definitive Edition: Action, Survival horror, Open-world.
+- Miscreated: Survival, Open-world, Multiplayer.
+- Dead Island: RDE: Action, Survival horror, Open-world.
 ![into](images/result.jpg)
