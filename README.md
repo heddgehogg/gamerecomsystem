@@ -51,4 +51,5 @@ The recommender system presented 6 the most appropriate games: “Firewatch”, 
 ![result](images/result.png)
 
 ### Metrics analysis 
-![metrics](images/metrics.png)
+> MAE: 2.069273763487834
+> RMSE: 2.586700024179224
